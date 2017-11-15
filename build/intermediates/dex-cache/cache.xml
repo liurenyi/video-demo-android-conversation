@@ -3,39 +3,219 @@
 
     <item
         is-multidex="false"
-        jar="/home/fly/.android/build-cache/7c91e026c35458fd97cae42673d0a93ed990632c/output/jars/classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\6ebac1aa1cef882137591091649ddcbc3485937b\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0f0dc347ca44aea2eaed9e5fa2bd49c02700a998">
-        <dex dex="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/pre-dexed/debug/classes_527da0fd0f19345d7ee4f0992f032a1b543994ff.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8055259114a32ee5642fe8dfcbf45742d0d0824f">
-        <dex dex="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f47698b92829b6d49cf881e7a12d9432a5d51797/classes.dex" />
+        sha1="56b7f5d01f5b971ac4ddad5ac242b1641a315f2d">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_5719a38e40c5ef34e4f8d3bcd468a3c5dd9a1ee6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fly/.android/build-cache/f640fb7a12d627324413b4944ac41129b7e42850/output/jars/classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.wilddog.client\wilddog-sync-android\2.3.7\79ef4310058971c7e314abc1c1301b07ef7f7489\wilddog-sync-android-2.3.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="1980909cc28edaec2a51b34002c09610fe57ce74">
-        <dex dex="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/pre-dexed/debug/classes_e7ac1937ad05505def27447bfea1dd73e6492b1a.jar" />
+        sha1="79ef4310058971c7e314abc1c1301b07ef7f7489">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\wilddog-sync-android-2.3.7_b208b482db77bc1cebafc0e2d7569c37442378b8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\18a59e4d5fa696c08a8d290927687de73258f2e7\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/opt/wilddogsdk/video-demo-android-conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9cecc3b8d7bdf887afbd3477b083d532104df7a3/classes.dex" />
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_9fc4793db33431dd12594ac17b7ab13bcfece736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.2\96fd0e4a99e71d688b7267e12d2a5a137519d92e\socket.io-client-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96fd0e4a99e71d688b7267e12d2a5a137519d92e">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\socket.io-client-0.8.2_31fcc7cf07868c5e7fa0f997d402a777b099e4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bf45f02d7f6a422c0213ee8c4a73459da3ac7eb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_f62b0e433e074a109b9af9a3f0f91c80159cb1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bd1784e4a7b7b1ab852e5c588631dc6808a50df1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_491b92d67d546c5dfe5377323cf70866f2e58862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.8.3\854b49396e1e9f9bb0ab025062ddb49c4ed65ca1\engine.io-client-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="854b49396e1e9f9bb0ab025062ddb49c4ed65ca1">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\engine.io-client-0.8.3_d175d08b7d99dcb4224bf9002c57e21750f71b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_3f36bdc4e3c1814b9dee5e0d90f4077ea814d37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8a871843bfe33e41eb93eae08364a9b4ac559a3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_a32676e6f27e6e56fd6665f100b1309ecedab2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\940ed3e76cf005ca0056e39d939d69942f55a9ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39a54c455367bdd3cfb3714632d73a78956402">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_4532ceaac6117b99f3840851856b3b987c0a989d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_34cebb7d9c0f05222a7630657f0a6116e850f5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e0a096ba4cf940d8b784f19341499a9390a83807\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="393d47289f3acd30ff2f34f01c21aaede2c6fff6">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_95c5d75a28e18ab86747be4912154c80bc8c2bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7a6d57a4d191c01a7bb7496d8ce67acfc5493799\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_f12837d106beeb084d9f0b76441b988ad9030367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_320eedaa2510ba9d414e459c0d4d5f15ae00ae31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_032b1d2117e56d98e15716cdfc48889f5c1fd244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.wilddog.client\wilddog-common-android\2.0.2\5e48817ef166ae4e9d6e58e3e86ec24f5e27f63d\wilddog-common-android-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e48817ef166ae4e9d6e58e3e86ec24f5e27f63d">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\wilddog-common-android-2.0.2_8645ffcece2740fb6c2ed0e99c8bea1988d7d3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_cdf2755fbc282bcba497937bfd17a11e2da6266e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\abf1875a63a7642c548ac1e79dafc8993ea8d313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_2307a7f022c6475595dcce290dde8a9e8fb7a3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c51698268c93d12f9be82c7624d7cdea4aae1f34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_8326169992465499a6e1fe8e7f6f740270e50e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d42693ac483b99ec4026e9012e6a1b94c9dd091a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_e9828f48b13b5f4c71cb4915e64775c03ebb3d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e95e50bb7c9736b54868d537eb20acdc9e3d3b50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_d1c889c053e2755b06e68b2cd65b1f17b6e58364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8548f13410d5eb0dd3b588adb5b6ca129568e97b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Administrator\Desktop\VideoChatDemo2\video-demo-android-conversation\app\build\intermediates\pre-dexed\debug\classes_858ce352a28e1533df819e1c631b89e027178cbf.jar" />
     </item>
 
 </items>

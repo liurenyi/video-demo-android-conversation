@@ -111,9 +111,9 @@ public class ConversationActivity extends AppCompatActivity {
     private WilddogVideoCall.Listener inviteListener = new WilddogVideoCall.Listener() {
         @Override
         public void onCalled(final Conversation conversation, String s) {
-            if(!TextUtils.isEmpty(s)){
-                Toast.makeText(ConversationActivity.this,"对方邀请时候携带的信息是:"+s,Toast.LENGTH_SHORT).show();
-                tvData.setText("对方携带数据为:"+s);
+            if (!TextUtils.isEmpty(s)) {
+                Toast.makeText(ConversationActivity.this, "对方邀请时候携带的信息是:" + s, Toast.LENGTH_SHORT).show();
+                tvData.setText("对方携带数据为:" + s);
             }
             mConversation = conversation;
             mConversation.setConversationListener(conversationListener);
@@ -234,7 +234,7 @@ public class ConversationActivity extends AppCompatActivity {
         localStream = LocalStream.create(options);
         //开启音频/视频，设置为 false 则关闭声音或者视频画面
         localStream.enableAudio(true);
-         localStream.enableVideo(true);
+        localStream.enableVideo(true);
         //为视频流绑定播放控件
         localStream.attach(localView);
     }
@@ -260,8 +260,8 @@ public class ConversationActivity extends AppCompatActivity {
     }
 
     @OnClick(R.id.btn_mic)
-    public void mic(){
-        if(localStream!=null){
+    public void mic() {
+        if (localStream != null) {
             isAudioEnable = !isAudioEnable;
             localStream.enableAudio(isAudioEnable);
         }
